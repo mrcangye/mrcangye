@@ -18,7 +18,7 @@
   <img align="left" src="https://user-images.githubusercontent.com/20467386/122955622-d8362a80-d3b2-11eb-8f03-38ff93d41e23.png"  alt="Logo PaddlePaddle" width="30" height="30"/>
 </a>
 
-:e-mail:mrcangye@mail.cn
+:e-mail:mrcangye@email.cn
 <br/>
 <br/>
 
