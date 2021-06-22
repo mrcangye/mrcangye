@@ -9,6 +9,7 @@
 如果有任何疑惑欢迎提交 **issue**
 
 
+
 <a href="https://github.com/mrcangye">
   <img align="left" src="https://user-images.githubusercontent.com/20467386/122951253-b8e9ce00-d3af-11eb-97f8-535886df34a6.png"  alt="Logo GitHub" width="25" height="25"/>
   </a><a href="https://gitee.com/mrcangye">
@@ -17,8 +18,7 @@
   <img align="left" src="https://user-images.githubusercontent.com/20467386/122955622-d8362a80-d3b2-11eb-8f03-38ff93d41e23.png"  alt="Logo PaddlePaddle" width="30" height="30"/>
 </a>
 
-<br/>
-
+:e-mail:mrcangye@mail.cn
 <br/>
 <br/>
 
