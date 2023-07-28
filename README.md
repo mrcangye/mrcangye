@@ -1,5 +1,11 @@
 :smile: Deep Learning | Python | C++
 
+:smile: PaddlePaddle Developers Experts
+
+:smile: Paddle Framework Contributor Club
+
+:smile: CSDN Blog Expert
+
 攀那一阶一阶，看那一景一景
 
 靡不有初，鲜克有终
