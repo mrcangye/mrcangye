@@ -1,12 +1,10 @@
-💪 拖延俱乐部顶级VIP | 🤣 发呆业务爱好者
-
-👨‍🎓 Deep Learning | Python | C++
+:smile: Deep Learning | Python | C++
 
 攀那一阶一阶，看那一景一景
 
 靡不有初，鲜克有终
 
-如果有任何疑惑欢迎联系我！
+欢迎联系我！
 
 
 
