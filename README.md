@@ -1,10 +1,10 @@
 :smile: Deep Learning | Python | C++
 
-:smile: PaddlePaddle Developers Experts
+:sunny: PaddlePaddle Developers Experts
 
-:smile: Paddle Framework Contributor Club
+:sun_with_face: Paddle Framework Contributor Club
 
-:smile: CSDN Blog Expert
+:cloud: CSDN Blog Expert
 
 攀那一阶一阶，看那一景一景
 
