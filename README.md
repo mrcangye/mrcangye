@@ -21,9 +21,7 @@
   <img align="left" src="https://user-images.githubusercontent.com/20467386/122955640-db311b00-d3b2-11eb-9d56-30c9997860cc.png"  alt="Logo CSDN" width="25" height="25"/></a><a href="https://aistudio.baidu.com/aistudio/personalcenter/thirdview/268708">
   <img align="left" src="https://user-images.githubusercontent.com/20467386/122955622-d8362a80-d3b2-11eb-8f03-38ff93d41e23.png"  alt="Logo PaddlePaddle" width="25" height="25"/>
 </a>
-<a href="mailto:mrcangye@email.cn">
-  <img align="left" src="https://user-images.githubusercontent.com/20467386/122962451-0407df00-d3b8-11eb-8056-20a6f3906bb3.png"  alt="Logo PaddlePaddle" width="25" height="25"/>
-</a>
+
 
 
 <br/>
