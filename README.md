@@ -27,9 +27,3 @@
 <br/>
 <br/>
 
-<a>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mrcangye&show_icons=true&theme=vue" />
-</a>
-<a>
-<img href="https://github.com/mrcangye/github-readme-stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcangye&langs_count=8" />
-</a>
